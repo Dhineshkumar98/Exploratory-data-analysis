@@ -1,1 +1,2 @@
-# Exploratory-data-analysis
+# EDA
+Exploratory Data Analysis on Movies Dataset.
